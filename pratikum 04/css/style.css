@@ -1,0 +1,52 @@
+body {
+    background-color: papayawhip;
+    background-image: url(image/123.jpeg)
+
+}
+#tentang_kami {
+    color: purple;
+    text-align: center;
+    font-size: x-large;
+}
+#promo {
+    color: navy;
+    text-decoration: red;
+    font-style: italic;
+    width: 300px;
+    height: 150px;
+    padding: 25px;
+}
+.paket {
+  
+#pkt {
+    color: blue ;
+    font-size: medium;
+    font-weight:medium;
+    border:solid;
+}
+#pkt2{
+    color:coral;
+    border:solid;
+}
+#harga{
+color: cornflowerblue;
+border: solid;
+}
+#cabang {
+    color: yellowgreen;
+    text-align: center;
+    text-decoration: red;
+    font-style: italic;
+    width: 300px;
+    height: 150px;
+    padding: 150px;
+}
+#kontak{
+    color: cadetblue;
+    font-style: italic;
+    font-style: oblique;
+   text-align: ;
+}
+#all {
+    font-style: italic;
+}
